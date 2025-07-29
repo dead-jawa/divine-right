@@ -1,0 +1,371 @@
+Make-as-You-Play” Game of New World Discovery
+for 1 Player
+by R. Winder, Version 1.1
+The First Sovereignty spread humanity to every corner of the
+galaxy, but eons have passed since its fall, and the countless
+worlds once under its thumb became no more than whispered
+legends to one another. Now, a potent new FTL advancement,
+which rumors say emerged from the cryptic galactic core, grants
+humanity the hope of travel to the farthest stars in a single
+lifetime. You are one of the few with the mettle to give up your
+planet-bound life and become a STAR CHARTER.
+1 Introduction
+Star Charter is a card-driven solitaire game where you play a star charter, striking out
+from your home planet to travel the space lanes and the vast void, discovering long-lost
+worlds of a densely inhabited galaxy. When you have discovered three new worlds, you
+have won the game, but it is possible to become adrift in space and lose. Whether you
+win or lose, the known galaxy has the potential to grow with each new game.
+This is a “Make-as-You-Play” game, which means that the game starts with a few
+materials (a map, paper, index cards, and colored cubes) and the remaining components
+will be generated as needed during play. Each game will see the addition of new cards,
+which represent the worlds in the galaxy.
+These rules include tables and guidelines for making new cards as needed, and this
+makes every copy of Star Charter an evolving galaxy. In addition, it means that each game
+inherits all components added or changed in the previous games. The galaxy’s worlds
+can grow endlessly over a connected campaign as players return to see what each new
+era holds for the future of humanity.
+The core gameplay involves some mild balancing of risk and reward as your fuel
+gradually allows you to explore remoter regions of space. Nevertheless, Star Charter can
+lean more toward a role-playing game relying on imagination and creative writing. You
+can choose the degree to which you impose your own creativity. As you visit and learn
+about worlds, you can also use these prompts to journal longer descriptions of them, or
+you can return to the cards after the game and flesh out their entries in a log.
+Star Charter aims to be a brisk and perhaps amusing world-building game that may spark
+your imagination to do more with your creations as you see fit.
+2 About the Game
+As a star charter, your goal each game is to visit three new worlds. Your score at the end
+will also scale with the length of your journey, where longer journeys score higher.
+Worlds can be close or distant, but the further you travel, the more later star charters
+learn to expend their fuel with the appropriate power to reach deeper and deeper reaches
+of space. Therefore, as you travel, you may also wish to pass through known worlds to
+increase the scientific understanding of space travel and reach sectors you might not be
+able to visit otherwise. Longer journeys may make it easier to find more unusual worlds.
+2.1 What You Need
+These rules include template Tables needed to produce the game’s components. Games
+are played on a Galaxy Map that can be copied or printed from the last page of the rules.
+You will need a deck of Index Cards, preferably half-size cards (3” by 2.5”) because they
+are easier to shuffle. Some of these will be made into an initial deck, but others will be
+required during play as the deck grows. Pens or pencils are also needed for each player
+as cards are made during gameplay. The game requires cubes in two colors, one for New
+World Cubes (max 3) and one for Old World Cubes previously discovered (max 33, but
+realistically, you need much fewer). Coins in two different denominations can be used as
+substitutes. Optionally, you can track your games on a sheet of paper called a Travelogue.
+Another option is to also retain a Journal, or notebook, where you can write expanded
+descriptions of the worlds you visit. If you do, you should number the pages so you can
+more easily find them from indices on the cards. Journal entries can be as long as you
+want and detail any aspects suggested by what you generate in the game. They can reflect
+the experiences of your visiting star charter, or they can be more like an encyclopedia
+entry for the world, covering its ecology, history, or culture. You can also treat your
+worlds as each being completely independent entities or envision them as being highly
+interrelated. Finally, the tone can be anywhere from serious and somber to light and
+whimsical, and this can even vary from world to world. The entries that describe the
+worlds may regularly produce humorous combinations if used as is, so you may find it
+convenient to adapt or rephrase them to better fit your style.
+2.2 Inspirations and Acknowledgments
+Many games inspired one or more aspects of Star Charter, including Race for the Galaxy
+(Lehmann), SpaceCorp 2025-2300AD (Butterfield), GURPS Space, 4th Edition (Zeigler,
+Cambias), Ex Novo (Nerurkar, Dimopoulos), Diaspora (Murray, et al.), The Ultraviolet
+Grasslands and the Black City (Rejec), Thousand Year Old Vampire (Hutchings), and Maze
+Rats (Milton). My thanks to Shane of www.esotericfulcrum.com and Mike Minutillo
+(codermike at www.boardgamegeek.com) for their valuable feedback on the rules.
+3 Galaxy Anatomy
+The galaxy is represented by a grid, an example of which is shown here. This consists of
+hexes, or Sectors, each with a unique two digit number except for the center hex which
+contains a supermassive Black Hole at the center of the galaxy, which cannot be entered.
+Initially the numbered sectors are empty, but as you visit worlds you will place hub
+worlds, minor worlds, and space lanes.
+Hub Worlds are marked with a 8. These represent the first worlds discovered in a sector.
+Minor Worlds are marked with a * (or a •). These represent any world discovered in a
+sector that already has a hub world. Space Lanes are dashed lines between hub worlds,
+which represents well-travelled routes that have a lower fuel cost. When you discover a
+hub world, you will also name the sector by writing the name at the bottom of the hex.
+The galaxy also has three rings depending on distance from the center hex. The Inner
+ring includes sectors adjacent to the center. The Mid ring includes sectors two spaces
+away from the center. The Outer ring includes sectors three spaces away from the center.
+The fuel costs will be much greater when traveling further away from the galactic core.
+13
+64
+14
+63
+12
+15
+*
+62
+65
+16
+24
+8
+*
+*
+61
+11
+8
+*
+*
+GANDHI
+23
+*
+*
+8
+53
+66
+8
+WISP
+8
+TRENCH
+22
+*
+25
+*
+*
+*
+GARX
+TERMINUS
+8
+54
+21
+8
+*
+*
+*
+CRAB
+52
+55
+33
+26
+*
+*
+8
+*
+8
+ENSOR
+KAFKA
+8
+56
+44
+34
+*
+*
+*
+*
+ARCHON
+CLARION
+51
+43
+32
+35
+8
+SEAR
+42
+45
+36
+41
+31
+46
+4 Card Anatomy
+During the game you will discover new worlds on cards. Below is the anatomy of a
+completed World card.
+FUEL
+Hub World or
+Minor World?
+Sector ##
+7
+8
+56
+BOIL
+- OCEAN
+- CASTE
+Name
+Biome
+Society
+Disgusting Appearance
+Orderly Beverages
+1st Trait
+2nd Trait
+Journal
+Index
+(optional) p1
+2
+Randomizer
+1-6
+Cards in the deck will all begin Worldless with only a lower right Randomizer (1 – 6).
+The other elements are filled in when the card’s world is added. These elements include:
+• A curved line used to represent the planet, which contains:
+o The world’s Name
+o The world’s Biome, or the dominant natural character of the planet
+o The world’s Society, or the dominant social character of the planet
+• Anywhere from 2 to 3 Traits, or short statements, that further describe the world
+• The Fuel value of the card in the upper left, which is equal to the number of worlds
+visited before it in this game; this is not actually related directly to the world
+• A 8 below the Fuel if the world is the first discovered in a sector, making it a Hub
+World, which allows for less expensive travel along space lanes. Otherwise, a * to
+indicate a Minor World
+• The world’s Sector, which indicates the hex where it is found
+• A Journal Index which points to a page of your journal if you are recording further
+details about the world; this is purely optional
+When you make a world, you will be asked to Create lines and symbols or Write words
+on the card or the map, permanently shaping its character in your galaxy.
+5 Basic Rules for Cards and Random Numbers
+During a game, cards have different states, including
+1) in the facedown Deck,
+2) in your Hand,
+3) in a face-up Discard pile, or
+4) in a Travel line, a row of worlds placed below the map.
+Each game, cards start in a shuffled facedown deck. When you Draw cards, you pull from
+this deck into your hand.
+The game will frequently ask you to Roll one or more random numbers. To roll a random
+number, place the top card of the deck in the discard and look at its randomizer digit.
+This is the random number you rolled.
+If you are asked to Roll & Sum, multiple rolls are summed to give a total (e.g., for Biome
+and Society tables in Sections 8 and 9).
+Play Example: You are creating a new world and you roll & sum 4 numbers to get the
+biome. You discard the top four cards from the deck and get 1, 4, 5, and 2. This sums to
+12, which gives you a Desert on the Biome table in Section 8. Then you roll & sum 4
+numbers to get the world’s society, discarding the top four cards from the deck, which
+are 6, 5, 2, 4 or a Monarchy from the Society table in Section 9.
+If you are asked to Roll & Mark, multiple rolls are not summed but treated as separate
+indexes into a table (e.g., for Adjective and Noun tables in Section 10).
+Play Example: You are creating a new world and you roll & mark 3 numbers to get a trait.
+You discard the top three cards from the deck and get 1, 4, and 6 and check the Adjective
+table to get Stable. You do this again for the Noun table and get 3, 2, and 6, which is Tattoos.
+This is combined for the bizarre trait of Stable Tattoos. Repeating this process, the next
+discards are 3, 4, and 4 followed by 5, 5, and 1 on the Adjective and Noun tables
+respectively. This produces Oblivious Bureaucracy.
+You can roll six-sided dice instead of using the cards. Bear in mind, this will alter the
+probability of what can be rolled.
+If the deck is ever depleted, shuffle the discard pile, and form a new facedown deck.
+6 Prologue
+6.1 Deck
+Before you play your first game, this prologue will help prepare your deck and provide
+some practice in making cards and adding to the galaxy map.
+To get started, gather 24 blank index cards. In the lower right corner on each write one
+number such that there are four each of the integers between 1 and 6. Shuffle these cards.
+6.2 Six First Worlds
+Select a random card from the deck lacking a world and do the following:
+• Create a box in the upper left and write 0 in it
+• Create a 8 under the box
+• Write the sector number (choose 11 for the first world) under the 8
+• Create a curved line representing the world in the upper right and inside the curve:
+o Write the name of the world; you can also wait to name the world at any
+point during this process
+o Roll & Sum 4 on the Biome list (Section 8); write the entry below the name
+o Roll & Sum 4 on the Society list (Section 9); write the entry below the biome
+• Perform the following twice:
+o Roll & Mark 3 on the Adjective table (Section 10)
+o Roll & Mark 3 on the Noun table (Section 10)
+o Either write in the Adjective Noun pair as a trait for your world or invent a
+trait inspired by what this pair suggests to you
+• Optionally, you may create a box in the lower left corner and write the page number
+of a journal in that box. Then on the page of the journal, you can expand on this
+world, writing in a more detailed description suggested by its biome, society, and
+its predominant traits. This may also be done outside the game as inspiration
+strikes you. You can also Roll & Mark 2 (Section 10) on the Prompt table to get a
+suggestion for an entry.
+Create a 8 in sector 11 on the galaxy map. Write the name of the sector in the bottom of
+sector 11; by default this is the world’s name, but you can choose any name you like.
+Repeat what you did in this section for sector 11 for sectors 22, 33, 44, 55, and 66.
+6.3 Creating Initial Space Lanes
+Create a dashed line between the 8s in each adjacent sector to represent initial space
+lanes.
+7 Gameplay
+At the start of the game, shuffle your deck. Discard cards from the deck until you discard
+a world. Place this world on the table below the map to form the first world in the travel
+line. Place an old world cube in the sector of the galaxy map that contains this world. An
+example travel line with five worlds is below:
+0 44. THAMANIN
+- DESERT
+- MONARCHY
+1 55. KISHOR
+3 11. SUPEROSE
+8
+44 55 11 - INNOVATIVE GHOSTS
+- CRIMINAL LEGENDS
+0 66. ILLUSTRE
+- TIDE-LOCKED
+- RUIN
+- GARDEN
+* * *
+- MERITOCRACY
+8
+- DEMOCRACY
+- TECHNOCRACY
+66 - HONORED
+INDIVIDUALS
+- OOZING SEASONS
+4 22. ISING
+- VOLCANIC
+- PLUTOCRACY
+- TERRIFIED POLITICS
+- IMMORAL ORGS
+22
+- DISGUSTING FIRES
+- SOPHISTICATED
+INSECTS
+- HOSTILE DISCIPLINE
+- ANTIQUE MYSTICISM
+p4
+6
+p7
+1
+p6
+5
+p8
+4
+p9
+3
+The game then proceeds until you either:
+1) 2) Cannot navigate or afford the travel cost, in which case you lose, or
+Have three new world cubes on the galaxy map, in which case you win.
+Each turn has the following phases: 1) draw, 2) navigate, 3) fuel, 4) travel, and 5) visit.
+7.1 Draw Phase
+Draw until you have 5 cards in your hand.
+7.2 Navigate Phase
+Select a numbered sector (destination sector) without a cube adjacent to the rightmost
+world in the travel line (origin sector). If there are no adjacent numbered sectors without
+cubes, then the game ends and you lose.
+Play Example: Your hand has three worldless cards, a world in 11 called Amarita, and a
+world in 55 called Crownhill. The rightmost world in the travel line is Sciomystis in sector
+22, so this is your origin sector. You examine the sectors surrounding it: 11, 16, 23, 21, and
+33. Ahead in the fuel phase (7.3) it will cost 6 fuel to travel to 16, 23, or 21 because they
+are in the mid ring of the galaxy while your origin sector is in the inner ring. Yet traveling
+to 11 or 33 costs 0 fuel. Because you have cards with 0 fuel in your hand (including the
+worldless cards), you cannot yet escape the inner ring of the galaxy as you must meet or
+exceed the fuel cost to travel there. Thinking to a future turn, you note you have an old
+world, Amarita, in an adjacent sector. If you navigate there, you have the option of playing
+that world into the travel line, which may extend the length of your trip. This might be
+wise for the long term as the further out the new worlds are in the travel line the larger
+the value of fuel they will get in their upper corners, making future journeys easier.
+7.3 Fuel Phase
+Place on the right of the travel line either:
+• A card without a world that is in your hand, or
+• A world in your hand that is in that sector, or
+• A new blank card
+If you placed a new blank card, create a box in the blank card’s lower right and roll 1,
+writing the value plus 1 in the box, unless it was a 6, in which case write 1. The fuel costs
+vary greatly depending on which ring each sector is in. These are:
+SECTOR TO SECTOR COST
+INNER ßà INNER 0
+INNER ßà MID 6
+MID ßà MID 12
+MID ßà OUTER 18
+OUTER ßà OUTER 24
+If there is a space lane between the sectors and either the world in the origin sector or the
+world in your destination sector is a hub world, then the cost to move is halved.
+Discard cards from your hand with the smallest total fuel equal to or greater than the cost
+of moving from the origin sector to the destination sector. If possible you must discard a
+combination of cards that equals the fuel cost required. You cannot overpay, meaning you
+cannot discard a card with non-zero fuel in excess of the minimum you need to travel.
+You can discard zero fuel cards. Cards without worlds have zero fuel.
+Play Example: You are in sector 21 (the origin sector), adjacent to 22 and 33 (6 fuel cost to
+move), 23 and 34 (12 fuel cost to move), and 25 and 26 (18 fuel cost to move). However,
+there is an old world cube in 22 (you had travelled from Sciomystis) so you cannot move
+there. The five cards in your hand are two worldless cards with 0 fuel, a sector 44 world
+with 3 fuel, a sector 33 world with 3 fuel, and a sector 23 world with 9 fuel. You could
+travel to the world in sector 33 or travel to a worldless card or a blank that becomes a new
+world placed in 33 (at 6 fuel cost) or in 23 or 34 (at 12 fuel cost). You lack the fuel to reach
+the outer ring. Neither can you travel to the existing world in 23 because the remaining
+cards in your hand would not reach the needed fuel threshold. You decide to travel to
+one of the worldless cards in 34 and you discard the 9 fuel card and a 3 fuel card to do it.
+If you cannot pay the fuel cost, then the game ends and you lose. If you are recording
+your games in a travelogue, write down the next number on the next line (starting at 1 at
+the top for the first game) followed by the name of each world you visited, underlining
